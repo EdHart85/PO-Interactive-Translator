@@ -1,0 +1,13 @@
+# Add brands, software, or terms that should NOT be translated (one per line)
+Siril
+N.I.N.A
+GraXpert
+Starnet++
+Astro-Team
+Poedit
+Weblate
+GitLab
+GitHub
+Python
+APT
+Ekos
