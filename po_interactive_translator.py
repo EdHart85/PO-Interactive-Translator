@@ -25,7 +25,7 @@ Key features
 - Optional non-interactive batch mode (``--auto``).
 - Automatic retry with exponential back-off and chunking for long strings.
 
-Author : Your Name (https://github.com/your-handle)
+Author : Eduardo Hartmann (https://github.com/EdHart85)
 License: MIT
 """
 
